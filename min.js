@@ -1,0 +1,1 @@
+!function(t){Array.prototype.item=t,String.prototype.item=t,Object.getPrototypeOf(Uint8Array).prototype.item=t}(function(t){return t<0?this[this.length+t]:this[t]});
