@@ -4,8 +4,8 @@
 
 A polyfill for the [item proposal](https://github.com/tabatkins/proposal-item-method).
 
+**Diversion Note:** this method doesn't care about doubles, assuming you'll never access arrays via doubles values.
+
   * CDN global utility via https://unpkg.com/@ungap/item
   * ESM via `import any from '@ungap/item'`
   * CJS via `const any = require('@ungap/item')`
-
-**Diversion Note** this method doesn't care about doubles, assuming you'll never access arrays via doubles values.
