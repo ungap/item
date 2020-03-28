@@ -29,10 +29,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ungap/promise-any.git"
+    "url": "git+https://github.com/ungap/item.git"
   },
   "bugs": {
-    "url": "https://github.com/ungap/promise-any/issues"
+    "url": "https://github.com/ungap/item/issues"
   },
-  "homepage": "https://github.com/ungap/promise-any#readme"
+  "homepage": "https://github.com/ungap/item#readme"
 }
